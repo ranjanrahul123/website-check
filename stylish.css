@@ -24,10 +24,10 @@ header{
   }
   .logo-container{
       flex: 1;
-      color:blue;
   }
   .logo{
     margin:5px;
+    color:rgb(69, 80, 69);
   }
   nav{
        flex:1;
