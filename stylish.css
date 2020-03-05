@@ -53,7 +53,7 @@ header{
 
 
 #bg {
-  background-image:'beach2.jpg';
+  background-image:url(beach2.jpg);
   background-size: cover;
   background-position: center;
   height:90vh;
