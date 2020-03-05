@@ -20,9 +20,11 @@ header{
   }
   .logo-container,.nav-links{
     display:flex;
+
   }
   .logo-container{
       flex: 1;
+      color:blue;
   }
   .logo{
     margin:5px;
